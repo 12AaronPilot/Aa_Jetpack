@@ -11,7 +11,30 @@
 				"C:/Users/Aaron/OneDrive/Documentos/Unreal Projects/Aa_Jetpack/Content/__ExternalObjects__/FirstPerson/Maps/FirstPersonMap/9/X0/YTK31VNIVJJ1C7LYBEW531.uasset",
 				"C:/Users/Aaron/OneDrive/Documentos/Unreal Projects/Aa_Jetpack/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset",
 				"C:/Users/Aaron/OneDrive/Documentos/Unreal Projects/Aa_Jetpack/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/E/MX/R1GV431P5FDO08OFULRA01.uasset",
-				"C:/Users/Aaron/OneDrive/Documentos/Unreal Projects/Aa_Jetpack/Content/FirstPerson/Maps/FirstPersonMap.umap"
+				"C:/Users/Aaron/OneDrive/Documentos/Unreal Projects/Aa_Jetpack/Content/FirstPerson/Maps/FirstPersonMap.umap",
+				"C:/Users/Aaron/OneDrive/Documentos/Unreal Projects/Aa_Jetpack/Content/FirstPersonArms/Character/Mesh/SK_Mannequin_Arms.uasset",
+				"C:/Users/Aaron/OneDrive/Documentos/Unreal Projects/Aa_Jetpack/Content/AA/Input/IA_Jetpack.uasset",
+				"C:/Users/Aaron/OneDrive/Documentos/Unreal Projects/Aa_Jetpack/Content/FirstPerson/Input/IMC_Default.uasset",
+				"C:/Users/Aaron/OneDrive/Documentos/Unreal Projects/Aa_Jetpack/Content/AA/Assets/Jetpack01/unsc_decals_diffuse.uasset",
+				"C:/Users/Aaron/OneDrive/Documentos/Unreal Projects/Aa_Jetpack/Content/AA/Assets/Jetpack01/jetpack_unsc_diff.uasset",
+				"C:/Users/Aaron/OneDrive/Documentos/Unreal Projects/Aa_Jetpack/Content/AA/Assets/Jetpack01/halo__reach__jetpack_texture_2.uasset",
+				"C:/Users/Aaron/OneDrive/Documentos/Unreal Projects/Aa_Jetpack/Content/AA/Assets/Jetpack01/halo__reach__jetpack_texture_1.uasset",
+				"C:/Users/Aaron/OneDrive/Documentos/Unreal Projects/Aa_Jetpack/Content/AA/Assets/Jetpack01/halo__reach__jetpack_texture_0.uasset",
+				"C:/Users/Aaron/OneDrive/Documentos/Unreal Projects/Aa_Jetpack/Content/AA/Assets/Jetpack01/halo__reach__jetpack_Skeleton.uasset",
+				"C:/Users/Aaron/OneDrive/Documentos/Unreal Projects/Aa_Jetpack/Content/AA/Assets/Jetpack01/halo__reach__jetpack_PhysicsAsset.uasset",
+				"C:/Users/Aaron/OneDrive/Documentos/Unreal Projects/Aa_Jetpack/Content/AA/Assets/Jetpack01/halo__reach__jetpack.uasset",
+				"C:/Users/Aaron/OneDrive/Documentos/Unreal Projects/Aa_Jetpack/Content/AA/Effects/NS_Thrust.uasset",
+				"C:/Users/Aaron/OneDrive/Documentos/Unreal Projects/Aa_Jetpack/Content/AA/Effects/NS_Thrust02.uasset",
+				"C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/FX/Niagara/Content/DefaultAssets/DefaultRIbbonMaterial.uasset",
+				"C:/Users/Aaron/OneDrive/Documentos/Unreal Projects/Aa_Jetpack/Content/AA/Sounds/jetpack.uasset",
+				"C:/Users/Aaron/OneDrive/Documentos/Unreal Projects/Aa_Jetpack/Content/AA/Assets/Jetpack02/MI_Cosmos_JetPack.uasset",
+				"C:/Users/Aaron/OneDrive/Documentos/Unreal Projects/Aa_Jetpack/Content/AA/Assets/Jetpack02/MI_Cosmos_JetPack_baseColor.uasset",
+				"C:/Users/Aaron/OneDrive/Documentos/Unreal Projects/Aa_Jetpack/Content/AA/Assets/Jetpack02/MI_Cosmos_JetPack_normal.uasset",
+				"C:/Users/Aaron/OneDrive/Documentos/Unreal Projects/Aa_Jetpack/Content/AA/Assets/Jetpack02/MI_Jetpack_FuelLevel.uasset",
+				"C:/Users/Aaron/OneDrive/Documentos/Unreal Projects/Aa_Jetpack/Content/AA/Assets/Jetpack02/scene.uasset",
+				"C:/Users/Aaron/OneDrive/Documentos/Unreal Projects/Aa_Jetpack/Content/AA/Assets/Jetpack02/scene_PhysicsAsset.uasset",
+				"C:/Users/Aaron/OneDrive/Documentos/Unreal Projects/Aa_Jetpack/Content/AA/Assets/Jetpack02/scene_Skeleton.uasset",
+				"C:/Users/Aaron/OneDrive/Documentos/Unreal Projects/Aa_Jetpack/Content/FirstPersonArms/Character/Mesh/SK_Mannequin_Arms_Skeleton.uasset"
 			]
 		}
 	]
