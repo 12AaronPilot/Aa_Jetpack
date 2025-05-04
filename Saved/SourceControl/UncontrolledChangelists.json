@@ -1,0 +1,18 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/Aaron/OneDrive/Documentos/Unreal Projects/Aa_Jetpack/Content/StarterContent/Architecture/Floor_400x400.uasset",
+				"C:/Users/Aaron/OneDrive/Documentos/Unreal Projects/Aa_Jetpack/Content/__ExternalObjects__/FirstPerson/Maps/FirstPersonMap/D/Q3/7X1MXCDQ92KFSN7950J9VA.uasset",
+				"C:/Users/Aaron/OneDrive/Documentos/Unreal Projects/Aa_Jetpack/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/E/O5/51DY9XGNPMAGL5VNXNQ2QB.uasset",
+				"C:/Users/Aaron/OneDrive/Documentos/Unreal Projects/Aa_Jetpack/Content/__ExternalObjects__/FirstPerson/Maps/FirstPersonMap/9/X0/YTK31VNIVJJ1C7LYBEW531.uasset",
+				"C:/Users/Aaron/OneDrive/Documentos/Unreal Projects/Aa_Jetpack/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset",
+				"C:/Users/Aaron/OneDrive/Documentos/Unreal Projects/Aa_Jetpack/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/E/MX/R1GV431P5FDO08OFULRA01.uasset",
+				"C:/Users/Aaron/OneDrive/Documentos/Unreal Projects/Aa_Jetpack/Content/FirstPerson/Maps/FirstPersonMap.umap"
+			]
+		}
+	]
+}
