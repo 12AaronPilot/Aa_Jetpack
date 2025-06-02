@@ -1,2 +1,3 @@
-2025/05/04-07:15:41.394 ad38 Creating DB C:/Users/Aaron/OneDrive/Documentos/Unreal Projects/Aa_Jetpack/Saved/webcache_4430\Local Storage\leveldb since it was missing.
-2025/05/04-07:15:41.420 ad38 Reusing MANIFEST C:/Users/Aaron/OneDrive/Documentos/Unreal Projects/Aa_Jetpack/Saved/webcache_4430\Local Storage\leveldb/MANIFEST-000001
+2025/06/01-15:47:27.176 a5e0 Reusing MANIFEST C:/Users/Aaron/OneDrive/Documentos/Unreal Projects/Aa_Jetpack/Saved/webcache_4430\Local Storage\leveldb/MANIFEST-000001
+2025/06/01-15:47:27.177 a5e0 Recovering log #3
+2025/06/01-15:47:27.178 a5e0 Reusing old log C:/Users/Aaron/OneDrive/Documentos/Unreal Projects/Aa_Jetpack/Saved/webcache_4430\Local Storage\leveldb/000003.log 
