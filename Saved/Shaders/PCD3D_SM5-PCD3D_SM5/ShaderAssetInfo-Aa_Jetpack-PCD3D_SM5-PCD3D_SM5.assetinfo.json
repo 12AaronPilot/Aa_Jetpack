@@ -249,6 +249,12 @@
 			]
 		},
 		{
+			"ShaderMapHash": "39381362E9B949261D21B5F53F950419EDD532CA",
+			"Assets": [
+				"/Game/StarterContent/Materials/M_Metal_Gold"
+			]
+		},
+		{
 			"ShaderMapHash": "214717663469B09E63C5362A7209F0E2DD42F33B",
 			"Assets": [
 				"/Engine/EngineSky/M_SimpleSkyDome"
@@ -287,6 +293,7 @@
 		{
 			"ShaderMapHash": "EAAC3D7A1A555FC61CD8F38D25604ABC96CF8EB5",
 			"Assets": [
+				"/Game/FirstPersonArms/Character/Materials/Instances/Manny/MI_Manny_01",
 				"/Game/FirstPersonArms/Character/Materials/M_Mannequin"
 			]
 		},
@@ -347,7 +354,8 @@
 		{
 			"ShaderMapHash": "5B791F8B49276ACC29C7F627C67A3D9BE83B7649",
 			"Assets": [
-				"/Engine/EngineMaterials/Widget3DPassThrough"
+				"/Engine/EngineMaterials/Widget3DPassThrough",
+				"/Engine/EngineMaterials/Widget3DPassThrough_Translucent_OneSided"
 			]
 		},
 		{
@@ -535,18 +543,6 @@
 			"ShaderMapHash": "2A63F6C6CD4EF6474F977C37B836BA66E358F192",
 			"Assets": [
 				"/InterchangeAssets/gltf/M_Transmission"
-			]
-		},
-		{
-			"ShaderMapHash": "967965D2E706A7D27B1CFE1E9A0ACD373710B185",
-			"Assets": [
-				"/Game/AA/Material/CristalesKyber"
-			]
-		},
-		{
-			"ShaderMapHash": "13ECB7D31581EAE65D698DD079D1E7825B26EBF6",
-			"Assets": [
-				"/InterchangeAssets/Materials/ClearCoatMaterial_MR"
 			]
 		},
 		{

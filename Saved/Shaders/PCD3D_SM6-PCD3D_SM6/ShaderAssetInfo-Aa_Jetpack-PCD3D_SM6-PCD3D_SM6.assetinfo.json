@@ -225,6 +225,12 @@
 			]
 		},
 		{
+			"ShaderMapHash": "C3012962C9DFBA8B412A5450BDAC094F40F520EA",
+			"Assets": [
+				"/Game/StarterContent/Materials/M_Metal_Gold"
+			]
+		},
+		{
 			"ShaderMapHash": "F13F1C6326B24744EE44A62F25884A4A42BBE10D",
 			"Assets": [
 				"/InterchangeAssets/gltf/MaterialInstances/MI_Default_Mask_DS"
@@ -243,12 +249,6 @@
 			]
 		},
 		{
-			"ShaderMapHash": "8325586F220D098FE304C08DAE917E17877E9864",
-			"Assets": [
-				"/Game/AA/Material/CristalesKyber"
-			]
-		},
-		{
 			"ShaderMapHash": "438EC7702432B7C65389A674FAA4D54526331B3A",
 			"Assets": [
 				"/HairStrands/Materials/HairDefaultMaterial",
@@ -258,7 +258,8 @@
 		{
 			"ShaderMapHash": "89BAEA73DBFD4AF02B0BF3F61404D298A35B4B19",
 			"Assets": [
-				"/Engine/EngineMaterials/Widget3DPassThrough"
+				"/Engine/EngineMaterials/Widget3DPassThrough",
+				"/Engine/EngineMaterials/Widget3DPassThrough_Translucent_OneSided"
 			]
 		},
 		{
@@ -295,12 +296,6 @@
 			"ShaderMapHash": "7ECA128A44CA1CE9EDB0F038C44133989000D8E8",
 			"Assets": [
 				"/Engine/EngineDebugMaterials/M_VolumeRenderSphereTracePP"
-			]
-		},
-		{
-			"ShaderMapHash": "2B202B8F50C1C25C78C1AD2C6F54237382214F51",
-			"Assets": [
-				"/InterchangeAssets/Materials/ClearCoatMaterial_MR"
 			]
 		},
 		{
@@ -594,7 +589,8 @@
 		{
 			"ShaderMapHash": "4D5A66E84F3FD1EC8AEBFA64576717C9C7A1B23C",
 			"Assets": [
-				"/Game/FirstPersonArms/Character/Materials/Instances/Manny/MI_Manny_01"
+				"/Game/FirstPersonArms/Character/Materials/Instances/Manny/MI_Manny_01",
+				"/Game/FirstPersonArms/Character/Materials/M_Mannequin"
 			]
 		},
 		{

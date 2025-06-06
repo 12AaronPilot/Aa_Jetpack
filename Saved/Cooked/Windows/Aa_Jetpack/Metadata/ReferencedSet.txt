@@ -155,7 +155,6 @@
 /Engine/EngineMaterials/DefaultDiffuse
 /Engine/EngineMaterials/DefaultLightFunctionMaterial
 /Engine/EngineMaterials/DefaultMaterial
-/Engine/EngineMaterials/DefaultNormal
 /Engine/EngineMaterials/DefaultPhysicalMaterial
 /Engine/EngineMaterials/DefaultPostProcessMaterial
 /Engine/EngineMaterials/DefaultTextMaterialOpaque
@@ -274,6 +273,7 @@
 /Engine/VREditor/LaserPointer/VR_LaserPower_01
 /Engine/VREditor/SnapGrid/SnapGridMaterial
 /Engine/VREditor/SnapGrid/SnapGridPlaneMesh
+/Engine/VREditor/Sounds/UI/Camera_Shutter
 /Engine/VREditor/Sounds/UI/Drop_Item_From_ContentBrowser
 /Engine/VREditor/Sounds/UI/Gizmo_Handle_Clicked
 /Engine/VREditor/Sounds/UI/Object_PickUp
@@ -323,9 +323,11 @@
 /Game/AA/Enemy/X_Bot_PhysicsAsset
 /Game/AA/Enemy/X_Bot_Skeleton
 /Game/AA/Input/IA_Jetpack
-/Game/AA/Material/CristalesKyber
+/Game/AA/Item/BP_CristalKyber
 /Game/AA/Sounds/jetpack
+/Game/AA/UI/WBP_Vida
 /Game/FirstPerson/Blueprints/BP_EnemyAI
+/Game/FirstPerson/Blueprints/BP_EnemyProjectile
 /Game/FirstPerson/Blueprints/BP_FirstPersonCharacter
 /Game/FirstPerson/Blueprints/BP_FirstPersonGameMode
 /Game/FirstPerson/Blueprints/BP_FirstPersonProjectile
@@ -407,6 +409,10 @@
 /Game/LevelPrototyping/Meshes/SM_QuarterCylinder
 /Game/LevelPrototyping/Meshes/SM_Ramp
 /Game/LevelPrototyping/Textures/T_GridChecker_A
+/Game/StarterContent/Materials/M_Metal_Gold
+/Game/StarterContent/Textures/T_MacroVariation
+/Game/StarterContent/Textures/T_Metal_Gold_D
+/Game/StarterContent/Textures/T_Metal_Gold_N
 /HairStrands/Materials/HairCardsDefaultMaterial
 /HairStrands/Materials/HairDebugMaterial
 /HairStrands/Materials/HairDefaultMaterial
@@ -514,12 +520,6 @@
 /InterchangeAssets/gltf/Textures/T_Generic_N
 /InterchangeAssets/gltf/Textures/T_White_Linear
 /InterchangeAssets/gltf/Textures/T_White_srgb
-/InterchangeAssets/Materials/ClearCoatMaterial_MR
-/InterchangeAssets/Materials/CommonMaterial
-/InterchangeAssets/Materials/MapOrColorFunction
-/InterchangeAssets/Materials/MapOrLinearColorFunction
-/InterchangeAssets/Materials/MapOrScalarFunction
-/InterchangeAssets/Materials/PBRSurfaceFunction_MR
 /InterchangeAssets/Utilities/New_LUT
 /MediaPlate/SM_MediaPlateScreen
 /MeshModelingToolset/Materials/M_DynamicMeshComponentVtxColor
